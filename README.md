@@ -1,4 +1,4 @@
-# Competition in programing microcontrolers
+# Competition in programing microcontrolers 2024
 
 ## This repository contain my solution for regional round of programming competition. 
 
@@ -9,4 +9,5 @@ I ended up with **20.5** points on the **5th place** in Ústí nad Labem region.
 I was using **Arduino Mega**
 
 Link to the competition: https://www.talentovani.cz/souteze/soutez-v-programovani
+
 Terms of Reference: https://www.talentovani.cz/images/Propozice_2023_24_opr.pdf
